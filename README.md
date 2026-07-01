@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BFC01EFF&background=FFFFFF00&width=435&lines=hello+world! "on the stability of closed systems")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BFC01EFF&background=FFFFFF00&width=435&lines=on+the+stability+of+closed+systems "on the stability of closed systems")](https://git.io/typing-svg)
 
 <!--
 **matei-ms/matei-ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
